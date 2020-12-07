@@ -1,3 +1,9 @@
+1. Name: Mitchell Melby
+2. Student ID: 2327121
+3. Email: melby@chapman.edu
+4. Class: CPSC298-01
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
@@ -22,3 +28,16 @@ The program will display the lines of the My_old_cars file, sorted by year
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
 
+
+### Files
+1. cars.sh
+2. cars-input
+3. My_old_cars
+
+### Known Errors
+N/A
+
+### References
+Linux for developers textbook, class lecture slides
+https://linuxize.com/post/bash-concatenate-strings/
+https://linuxhint.com/bash_append_line_to_file/
